@@ -12,6 +12,7 @@ The 'tidy_data' set contains 180 observations of 81 variables;
 - the Activity variable identifies the physical activity the subject was undertaking when the data was collected
 
 The remaining 79 variables are the arithmetic mean of values taken from the raw data where the original variable name contained the text strings 'std' or 'mean' grouped by 'Subject_ID' and 'Activity'.
+Note the original variables values were all normalized and bounded within [-1,1].
 
 
 The naming convention for these variables
